@@ -371,7 +371,7 @@ public final class YourGame
         do
             {
 
-            this.numberOfPlayers = promptForInt( "How many players (minimum %,d)?",
+            this.numberOfPlayers = promptForInt( "Huy was here How many players (minimum %,d)?",
                                                  MINIMUM_PLAYER_COUNT ) ;
 
             if ( ! this.running )
